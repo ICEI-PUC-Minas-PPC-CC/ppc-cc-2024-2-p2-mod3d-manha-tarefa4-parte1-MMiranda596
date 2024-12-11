@@ -7,5 +7,3 @@ Matheus Miranda Gião
 ## Professor
 
 - Will Machado
-
-# Documentação
